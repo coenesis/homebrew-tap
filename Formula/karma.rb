@@ -2,9 +2,9 @@ class Karma < Formula
   desc "Agent-first task and knowledge organisation"
   homepage "https://github.com/coenesis/karma"
 
-  url "https://github.com/coenesis/karma/releases/download/v0.1.0/karma"
-  version "0.1.0"
-  sha256 "0d40397b1e14fbc26590b6e4cdeed1bf8c2b0b4744fb988ae4018687225dc234"
+  url "https://github.com/coenesis/karma/releases/download/v0.2.0/karma"
+  version "0.2.0"
+  sha256 "724256cd5856bdc6b048f939bb7817ce435007a6b00c33844c52f110b61604eb"
 
   depends_on "git"
 
